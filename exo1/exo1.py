@@ -15,7 +15,6 @@ class Item:
         self.weight = weight
 
 
-
 i=Item(10, 20)
 print(i.price)
 print(i.weight)
